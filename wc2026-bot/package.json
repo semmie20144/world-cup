@@ -1,0 +1,14 @@
+{
+  "name": "wc2026-discord-bot",
+  "version": "1.0.0",
+  "description": "FIFA World Cup 2026 Discord Bot — live scores, stats & highlights",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord.js": "^14.16.3"
+  }
+}
